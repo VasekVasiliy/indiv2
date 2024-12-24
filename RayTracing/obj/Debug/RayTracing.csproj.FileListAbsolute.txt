@@ -1,0 +1,10 @@
+C:\Users\anton\Desktop\ind2\RayTracing\bin\Debug\RayTracing.exe.config
+C:\Users\anton\Desktop\ind2\RayTracing\bin\Debug\RayTracing.exe
+C:\Users\anton\Desktop\ind2\RayTracing\bin\Debug\RayTracing.pdb
+C:\Users\anton\Desktop\ind2\RayTracing\obj\Debug\RayTracing.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\ind2\RayTracing\obj\Debug\RayTracing.Form1.resources
+C:\Users\anton\Desktop\ind2\RayTracing\obj\Debug\RayTracing.Properties.Resources.resources
+C:\Users\anton\Desktop\ind2\RayTracing\obj\Debug\RayTracing.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\ind2\RayTracing\obj\Debug\RayTracing.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ind2\RayTracing\obj\Debug\RayTracing.exe
+C:\Users\anton\Desktop\ind2\RayTracing\obj\Debug\RayTracing.pdb
